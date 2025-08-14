@@ -25,6 +25,5 @@ This component is fully reusable and can be easily integrated into any React or 
 
 1. Clone this repository:
 
-https://github.com/Mohamadreza76211/drop-down.git
-git clone https://github.com/your-username/react-multi-select.git
+git clone https://github.com/Mohamadreza76211/drop-down.git
 cd react-multi-select
